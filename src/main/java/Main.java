@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-    Node binaryTree = new Node(20);
+        Node binaryTree = new Node(20);
         binaryTree.insertNode(40);
         binaryTree.insertNode(39);
         binaryTree.insertNode(45);
